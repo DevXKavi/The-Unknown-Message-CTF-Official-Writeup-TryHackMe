@@ -1,7 +1,7 @@
 # The Unknown Message — CTF Official Writeup
 
 **Author / THM username:** kave3nirmal141  | Created by ME
-Link: 
+Link: https://tryhackme.com/jr/theunknownmessage
 
 ---
 
